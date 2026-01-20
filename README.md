@@ -18,4 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de S�
 * 🧠 **Soft Skills**: Resolução de Problemas, Atendimento Consultivo e Adaptabilidade.
 ---
 📫 **Como me encontrar:**
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rorato-64547134a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.kaslul@gmail.com)
