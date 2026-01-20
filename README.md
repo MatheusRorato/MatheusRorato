@@ -1,16 +1,20 @@
-## Hi there 👋
+# Matheus Rorato
 
-<!--
-**MatheusRorato/MatheusRorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas com trajetória profissional iniciada aos 14 anos. Atualmente, foco minha transição para a área de tecnologia, desenvolvendo maturidade através de experiências no setor varejista e projetos freelance.
 
-Here are some ideas to get you started:
+### Competências Técnicas
+* Linguagens: Python (Básico) e Linguagem C (Lógica inicial).
+* Controle de Versão: Git e GitHub.
+* Programação: Estruturas de dados e Lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas e Ambientes
+* PyCharm
+* Visual Studio
+
+### Soft Skills
+* Resolução de Problemas
+* Atendimento Consultivo
+* Adaptabilidade
+
+### Objetivo
+Busco uma oportunidade de Estágio em TI onde possa aplicar minha experiência de mercado e evoluir minhas capacidades técnicas em desenvolvimento de software.
