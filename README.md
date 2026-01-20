@@ -16,10 +16,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de S�
 * 🎯 **Foco Atual**: Lógica de programação, Estruturas de Dados e Fundamentos de Python.
 * 💼 **Experiência**: Trajetória consolidada na Romero Home Center.
 * 🧠 **Soft Skills**: Resolução de Problemas, Atendimento Consultivo e Adaptabilidade.
-
-### 📊 Estatísticas do GitHub
-![Estatísticas de Matheus Rorato](https://github-readme-stats.vercel.app/api?username=MatheusRorato&show_icons=true&theme=radical)
-
 ---
 📫 **Como me encontrar:**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rorato-64547134a/)
