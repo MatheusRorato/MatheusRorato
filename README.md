@@ -13,7 +13,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de S�
 
 ### 📖 Sobre mim
 * 🎓 **Educação**: Análise e Desenvolvimento de Sistemas (ADS).
-* 🎯 **Foco Atual**: Lógica de programação, Estruturas de Dados e Fundamentos de Python.
+* 🎯 **Conhecimentos**: Nível básico em **Python**, **Linguagem C**
+* **Desenvolvimento Web**: Criação de interfaces responsivas e estruturação de páginas com **HTML5** e **CSS3**.
 * 💼 **Experiência**: Trajetória consolidada na Romero Home Center.
 * 🧠 **Soft Skills**: Resolução de Problemas, Atendimento Consultivo e Adaptabilidade.
 ---
